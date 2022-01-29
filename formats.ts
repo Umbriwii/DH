@@ -2045,4 +2045,13 @@ export const Formats: FormatList = [
 		defaultLevel: 100,
 		ruleset: ['HP Percentage Mod', 'Cancel Mod'],
 	},
+		{
+		name: "[Gen 8] Grondia",
+		threads: [
+			`&bullet; <a href="https://github.com/Umbriwii/kiwiishowdownmodtest/">National Dex AG</a>`,
+		],
+
+		mod: 'grondiatesting',
+		ruleset: ['Standard NatDex'],
+	},
 ];
